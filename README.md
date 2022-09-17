@@ -1,6 +1,4 @@
-## Overview ##
-
-**WARNING:** *This is a rather ancient project that was originally developed back in 2011 based on the Android 2.3 (Gingerbread) AOSP keyboard. While it still works as-is for many users, it would need some major rewrites to work with newer APIs, and some features such as language switching or popup keys don't work right on modern Android systems. I'm not currently planning on significant updates, and it's possible that it will stop working on modern devices or will no longer be updateable via the Google Play store due to minimum API level requirements. Play Store requires targeting API level 29 (Android 10), while the code was written for API level 9 (Android 2.3) from 2011.*
+# Hacker's Keyboard
 
 Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
 
